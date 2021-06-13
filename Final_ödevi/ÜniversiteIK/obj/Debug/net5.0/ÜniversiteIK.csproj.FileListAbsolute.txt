@@ -1,0 +1,12 @@
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\bin\Debug\net5.0\ÜniversiteIK.deps.json
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\bin\Debug\net5.0\ÜniversiteIK.dll
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\bin\Debug\net5.0\ref\ÜniversiteIK.dll
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\bin\Debug\net5.0\ÜniversiteIK.pdb
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.dll
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ref\ÜniversiteIK.dll
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.pdb
+C:\Users\FURKAN\source\repos\Final_ödevi\ÜniversiteIK\obj\Debug\net5.0\ÜniversiteIK.csprojAssemblyReference.cache
